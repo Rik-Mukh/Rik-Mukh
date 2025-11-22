@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>👨‍💻 [Rik Mukherjee] | [Software Engineer] | 💻 Passionate Developer</h3>
+  <h3>👨‍💻 [Rik Mukherji] | [Software Engineer] | 💻 Passionate Developer</h3>
 </div>
 
 <div align="center">
@@ -69,10 +69,8 @@
   
   ### 🔭 Currently Working On
   
-  <!-- TODO: Add your current projects - Replace with your actual projects -->
-  - 🔨 **Project Name 1** - Brief description of what you're building
-  - 🚀 **Project Name 2** - Another awesome project you're working on
-  - 💡 **Project Name 3** - Innovation in progress
+  - 🍞 **KneadTech** - Food-waste logistics platform (Laravel, React Native, Expo) - Building an offline-first driver app that coordinates 50+ weekly food-rescue routes, reducing failed submissions by 30% and cutting connectivity-related support tickets
+  - 🤖 **Continuum** - VR robot arm teleoperation (Unity, C#, URDF, Meta Quest 3) - NATHacks project featuring a damped least squares inverse kinematics solver achieving sub-5mm accuracy at 60 FPS for real-time teleoperation
   
 </div>
 
@@ -82,10 +80,9 @@
   
   ### 🌱 Currently Learning
   
-  <!-- TODO: Add what you're learning - Replace with your actual learning goals -->
-  - 📚 **Technology/Framework 1** - What you're learning about it
-  - 🎓 **Technology/Framework 2** - Your learning progress
-  - 🔍 **Technology/Framework 3** - Next on your learning list
+  - 📚 **Cloud Infrastructure** - Learning AWS/Azure services, containerization, and scalable deployment strategies
+  - 🎓 **Machine Learning** - Exploring ML fundamentals, algorithms, and their applications in real-world projects
+  - 🔍 **Operating System Concepts** - Deepening understanding of system internals, process management, and resource allocation
   
 </div>
 
@@ -138,7 +135,7 @@
   ### 🐍 Contribution Snake
   
   <!-- Snake animation - Updates automatically via GitHub Actions -->
-  ![Snake animation](https://github.com/Rik-Mukh/Rik-Mukh/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Rik-Mukh/Rik-Mukh/blob/output/dist/github-contribution-grid-snake.svg)
   
 </div>
 
