@@ -14,10 +14,15 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    permissions:
+      contents: write
     
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        
+      - name: Create dist directory
+        run: mkdir -p dist
         
       - name: Generate GitHub Contribution Grid Snake
         uses: Platane/snk@master
@@ -35,4 +40,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-

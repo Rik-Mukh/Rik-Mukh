@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>👨‍💻 [Rik Mukherji] | [Software Engineer] | 💻 Passionate Developer</h3>
+  <h3>👨‍💻 Rik Mukherji | Software Engineer | 💻 Passionate Developer</h3>
 </div>
 
 <div align="center">
@@ -65,7 +65,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
   
   ### 🔭 Currently Working On
   
@@ -76,7 +76,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
   
   ### 🌱 Currently Learning
   
@@ -100,38 +100,6 @@
 
 <div align="center">
   
-  ### 📫 How to Reach Me
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rik-mukherji/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rikmukherji05@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rikmukh.online/)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 👀 Profile Views
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Rik-Mukh&color=blueviolet&style=for-the-badge)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 💻 Random Dev Quote
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-</div>
-
----
-
-<div align="center">
-  
   ### 🐍 Contribution Snake
   
   <!-- Snake animation - Updates automatically via GitHub Actions -->
@@ -143,49 +111,53 @@
 
 <div align="center">
   
-  ### ⚙️ Customization Guide
+  ### 📫 How to Reach Me
   
-  <!-- 
-  QUICK CUSTOMIZATION CHECKLIST:
-  
-  1. Replace all instances of "Rik-Mukh" with your GitHub username in:
-     - GitHub Stats URLs
-     - Streak counter URL
-     - Trophy URL
-     - Activity Graph URL
-     - Profile Views URL
-     - Snake animation path
-  
-  2. Update personal information:
-     - Replace [Your Name] with your actual name
-     - Replace [Your Professional Title] with your title
-     - Update taglines in typing animation URLs
-  
-  3. Add your social links:
-     - Replace LinkedIn URL
-     - Replace Email address
-     - Replace Portfolio URL
-  
-  4. Configure Spotify widget:
-     - Get your Spotify user ID
-     - Update the Spotify widget URL
-  
-  5. Customize sections:
-     - Add your actual projects in "Currently Working On"
-     - Add your learning goals in "Currently Learning"
-  
-  6. Tech Stack badges:
-     - Add or remove badges as needed
-     - Find more badges at: https://shields.io/
-  
-  7. Themes:
-     - Change "tokyonight" theme to: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, dracula, etc.
-  
-  -->
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rik-mukherji/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rikmukherji05@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rikmukh.online/)
   
 </div>
 
 ---
+
+<!-- 
+QUICK CUSTOMIZATION CHECKLIST:
+
+1. Replace all instances of "Rik-Mukh" with your GitHub username in:
+    - GitHub Stats URLs
+    - Streak counter URL
+    - Trophy URL
+    - Activity Graph URL
+    - Profile Views URL
+    - Snake animation path
+
+2. Update personal information:
+    - Replace [Your Name] with your actual name
+    - Replace [Your Professional Title] with your title
+    - Update taglines in typing animation URLs
+
+3. Add your social links:
+    - Replace LinkedIn URL
+    - Replace Email address
+    - Replace Portfolio URL
+
+4. Configure Spotify widget:
+    - Get your Spotify user ID
+    - Update the Spotify widget URL
+
+5. Customize sections:
+    - Add your actual projects in "Currently Working On"
+    - Add your learning goals in "Currently Learning"
+
+6. Tech Stack badges:
+    - Add or remove badges as needed
+    - Find more badges at: https://shields.io/
+
+7. Themes:
+    - Change "tokyonight" theme to: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, dracula, etc.
+
+-->
 
 <div align="center">
   
